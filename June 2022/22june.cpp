@@ -1,5 +1,5 @@
 
-// kth largets element using Priority queue
+// kth largest element using Priority queue
 #include<bits/stdc++.h>
 using namespace std;
 class Solution {
